@@ -15,6 +15,7 @@
 		5769C15C228BA89B00548C7A /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5769C15B228BA89B00548C7A /* LearnerModel.swift */; };
 		5769C15E228BB58000548C7A /* HouseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5769C15D228BB58000548C7A /* HouseModel.swift */; };
 		5769C160228BC4D700548C7A /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5769C15F228BC4D700548C7A /* FacilitatorModel.swift */; };
+		5769C162228BC96E00548C7A /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5769C161228BC96E00548C7A /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5769C15B228BA89B00548C7A /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
 		5769C15D228BB58000548C7A /* HouseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseModel.swift; sourceTree = "<group>"; };
 		5769C15F228BC4D700548C7A /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		5769C161228BC96E00548C7A /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5769C149228B9D0500548C7A /* AppDelegate.swift */,
 				5769C14B228B9D0500548C7A /* ViewController.swift */,
 				5769C15B228BA89B00548C7A /* LearnerModel.swift */,
+				5769C161228BC96E00548C7A /* MenteeModel.swift */,
 				5769C15D228BB58000548C7A /* HouseModel.swift */,
 				5769C14D228B9D0500548C7A /* Main.storyboard */,
 				5769C150228B9D0600548C7A /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5769C15E228BB58000548C7A /* HouseModel.swift in Sources */,
+				5769C162228BC96E00548C7A /* MenteeModel.swift in Sources */,
 				5769C14C228B9D0500548C7A /* ViewController.swift in Sources */,
 				5769C15C228BA89B00548C7A /* LearnerModel.swift in Sources */,
 				5769C160228BC4D700548C7A /* FacilitatorModel.swift in Sources */,
