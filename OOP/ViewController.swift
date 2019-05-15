@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("this is my first update")
+        
+        func aldk(){
+            
+        }
     }
 
 
