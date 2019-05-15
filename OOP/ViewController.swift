@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var abc = 123
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -18,6 +21,8 @@ class ViewController: UIViewController {
         func aldk(){
             
         }
+        
+        
     }
 
 
